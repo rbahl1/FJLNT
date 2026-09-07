@@ -1,5 +1,6 @@
 import java.math.*;
 import java.util.*;
+import java.lang.*;
 /*Integer},to
  * calculate solutions to a range of generalized problems involving modular
  * arithmetic,and concerning with large numbers,for example,such as the n'th
